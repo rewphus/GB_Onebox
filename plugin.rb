@@ -86,7 +86,7 @@ module Onebox
 
                               "
 
-                                <img src='#{img}' style='float:left; max-width:690px; max-height:500pc; max-width:100%;'>
+                                <img src='#{img}' style='float:left; max-width:690px; max-height:500px; max-width:100%;'>
                 <div class='onebox-result' style='background:white; border-radius:7px;'>
                 <div class='source'>
 
